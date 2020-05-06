@@ -1,0 +1,1 @@
+"./battery.obj" "./hal_LCD.obj" "./main.obj" "../lnk_msp430fr4133.cmd" -l"/Users/sergio/Desktop/HSLU/8. Semester/PRG C/02_MSP430/DriverLib/Debug/DriverLib.lib" -llibc.a 
